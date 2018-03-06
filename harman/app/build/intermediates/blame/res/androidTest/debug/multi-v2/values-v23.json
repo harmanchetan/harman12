@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\harman\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\1691707\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0.aar\\bc8bc81b5aa3264b441ef6082d519bda\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\MovieApp1 (2)\\MovieApp1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\1691707\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0.aar\\bc8bc81b5aa3264b441ef6082d519bda\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\touchstone\\Downloads\\New folder (15)\\Fetch-2\\MovieApp1\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v23\\values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\touchstone\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0.aar\\e45d629ad737303269148902045a6042\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}
